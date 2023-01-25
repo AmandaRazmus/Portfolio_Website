@@ -1,0 +1,10 @@
+img { 
+    max-width: 100%; 
+}
+
+@media screen and (min-width: 800px) { 
+    body { 
+        border-left: 4px solid #f9f9f9; 
+        border-right: 4px solid #f9f9f9; 
+        padding: 1rem 2rem; 
+    } 
